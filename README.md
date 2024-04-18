@@ -1,10 +1,10 @@
 <!--### Hi there 👋-->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aayush+Ahuja!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Aayush+Ahuja!;" />
 </h1> 
 
-Hi I am Aayush Ahuja and I am a budding web developer;
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
