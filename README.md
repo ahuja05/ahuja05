@@ -1,10 +1,10 @@
 <!--### Hi there 👋-->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Aayush+Ahuja!;+Aspiring+Web+Developer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hey+There!+👋;+I'm+Aayush+Ahuja!+✨;+An+Aspiring+Web+Developer!;" />
 </h1> 
 
-
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -34,7 +34,8 @@
   <img width="3" />
  
 </div>
-
+<br>
+<hr>
 - 🌱 I’m currently learning Backend.
 
 <h3 align="left">Connect with me:</h3>
