@@ -27,8 +27,7 @@
   <img width="3" />
   
 
-  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="32" alt="materialui logo"  />
-  <img width="3" />
+  
   
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="32" alt="c logo"  />
   <img width="3" />
